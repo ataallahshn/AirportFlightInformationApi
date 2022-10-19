@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eWqNBJeVjPwvLSmRzF+A1//xKBByNZNg2MDYd12OQoE=",
+  "Source": "AirportFlightInformation",
+  "BasePath": "_content/AirportFlightInformation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
