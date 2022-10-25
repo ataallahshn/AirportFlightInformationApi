@@ -1,5 +1,5 @@
 # AirportFlightInformationApi
-this Api developed with HtmlAgilityPack and DotnetCore 6 and extract [https://fids.airport.ir](https://fids.airport.ir) Data .
+this Api developed with HtmlAgilityPack and DotNet Core 6 and extract [https://fids.airport.ir](https://fids.airport.ir) Data .
 
 # How run the Project
 first of all you have to install DotNet Core 6 after that you should search
