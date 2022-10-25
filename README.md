@@ -2,7 +2,7 @@
 this Api developed with HtmlAgilityPack and DotnetCore 6 and extract [https://fids.airport.ir](https://fids.airport.ir) Data .
 
 # How run the Project
-first of all you have to install DotNetCore 6 after that you should search 
+first of all you have to install DotNet Core 6 after that you should search
 https://localhost:{Your_Port}/api/AirportFlightInformation/GetAirpotInformation?AirportID={Airport_ID}
 
 # FidsAirport cities Id
